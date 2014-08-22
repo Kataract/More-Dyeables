@@ -1,0 +1,16 @@
+[
+{
+  "modid": "moredyeables",
+  "name": "More Dyeables",
+  "description": "Adds dyeing recipes and colored blocks for existing decoratives.",
+  "version": "1.0.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Kataract"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
