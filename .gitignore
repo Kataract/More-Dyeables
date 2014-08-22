@@ -213,3 +213,12 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+#Project specific
+saves/
+logs/
+screenshots/
+.gradle/
+assets/
+config/
+crash-reports/
