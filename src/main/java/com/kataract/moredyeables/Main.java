@@ -1,7 +1,7 @@
 /**
  * More Dyeables Minecraft mod
  * @author Kataract (Kat Passen)
- * @version 1.00, 8/22/14
+ * @version 1.01, 8/26/14
  */
 package com.kataract.moredyeables;
 
