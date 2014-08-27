@@ -3,7 +3,7 @@ A Forge-based Minecraft mod that allows you to dye existing blocks new colors.
 
 ##Installation
 You must have the Java Development Kit (JDK) installed on your system to compile this mod from source.
-* To begin, run [gradle] in the repository root: 'gradlew[.bat] [setupDecompWorkspace]', followed by `gradlew[.bat] [eclipse|idea] for whichever IDE you have (if you do not have one, use 'eclipse')
+* To begin, run Gradle in the repository root: 'gradlew[.bat] setupDecompWorkspace', followed by `gradlew[.bat] [eclipse|idea] for whichever IDE you have (if you do not have one, use 'eclipse')
 * Build the jar by running 'gradlew[.bat] build'
 * If Gradle runs in to problems, try running 'gradlew clean' or 'gradlew cleanCache'
 Then simply move the jar from build/libs to your mods folder.
