@@ -18,7 +18,7 @@ import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 public class Main {
 	public static final String MODID = "moredyeables";
 	public static final String MODNAME = "More Dyeables";
-	public static final String VERSION = "1.0.0";
+	public static final String VERSION = "1.0.2";
 
 	@Instance
 	public static Main instance = new Main();
