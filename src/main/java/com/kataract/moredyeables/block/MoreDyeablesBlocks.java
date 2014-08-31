@@ -15,7 +15,7 @@ import cpw.mods.fml.common.registry.GameRegistry;
 
 public final class MoreDyeablesBlocks {
 
-	/*
+	/**
 	 * coloredGlowstone holds all Glowstone dyeable from preexisting dyes in
 	 * vanilla Minecraft.  neonGlowstone holds added neon variants.
 	 * neonGlowstone might be renamed to take advantage of the 10 DVs left in
